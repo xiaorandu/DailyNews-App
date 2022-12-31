@@ -6,7 +6,7 @@
 
 -Implemented user interaction with the bottom bar and page navigation by using JetPack navigation component.
 
--Utilized Mindork's PlaceHlderView to support swipe gestures for liking/disliking news and deleting archived news.
+-Utilized Mindork's PlaceHolderView to support swipe gestures for liking/disliking news and deleting archived news.
 
 -Implemented Room Database with LiveData in ViewModel to support local cache and offline model.
 
